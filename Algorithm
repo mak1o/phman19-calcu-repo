@@ -1,0 +1,10 @@
+Algorithm
+
+1. Start
+2. Display the menu (1. Addition, 2. Subtraction, 3. Multiplication, 4. Division, 5. Exit)
+3. Input the menu choice.
+4. Check the input menu choice: If menu > 5, print "Invalid input, please enter a number" and go back to step 3. Otherwise, proceed to step 5.
+5. Input numbers for a and b. If the menu choice is == 5, go to step 7.Otherwise, process the menu choice and print the result.
+If the input number for b is 0 and the menu choice is 4, print "Cannot be divided by 0" and go to step 6.
+6. Ask to continue. If yes, go back to step 3. Otherwise, go to step 7.
+7. Stop
